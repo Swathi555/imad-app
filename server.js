@@ -9,16 +9,16 @@ var content = {
     title:"article One | Swathi ",
     heading:"article One",
     date:"23 Aug 2017",
-    content:" `         <p>
+    content: `  <p>
                     This is the content for my first article. This is the content for my first article.This is the content for my first  article.This is the content for my first article.This is the content for my first article.This is the content for my first article.This is the content for my first article.
-                  </p>
-                  <p>
+            </p>
+             <p>
                     This is the content for my first article.This is the content for my first article.This is the content for my first    article.This is the content for my first article.This is the content for my first article.This is the content for my first article.This is the content for my first article.
-                   </p>
-                   <p>
+            </p>
+           <p>
                     This is the content for my first article. This is the content for my first article.This is the content for my first article.This is the content for my first article.This is the content for my first article.This is the content for my first article.This is the content for my first article.
-                    </p> ` 
-}
+           </p> `
+};
 
 
 app.get('/', function (req, res) {
